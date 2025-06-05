@@ -80,7 +80,6 @@ No server or setup needed — it's a static project.
 
 **Sushovan Ghosh**  
 🎓 B.Tech CSE, Techno India University  
-💡 Front-End Developer | Designer | Bootstrap Enthusiast  
 🔗 [LinkedIn](https://www.linkedin.com/in/sushovan-ghosh)  
 💻 [GitHub](https://github.com/MIRACULOUS65)
 
